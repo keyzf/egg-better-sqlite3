@@ -6,7 +6,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-better-sqlite3 --save
+$ yarn add git+https://github.com/zjl1985/egg-better-sqlite3.git
 ```
 
 ## Usage

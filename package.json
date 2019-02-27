@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-better-sqlite3.git"
+    "url": "git+https://github.com/zjl1985/egg-better-sqlite3.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/zjl1985/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-better-sqlite3#readme",
+  "homepage": "https://github.com/zjl1985/egg-better-sqlite3#readme",
   "author": "zhangjunlong",
   "license": "MIT"
 }
