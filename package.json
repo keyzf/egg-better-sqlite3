@@ -1,6 +1,6 @@
 {
   "name": "egg-better-sqlite3",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "eggPlugin": {
     "name": "betterSqlite3"
@@ -10,7 +10,9 @@
     "eggPlugin",
     "egg-plugin"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "better-sqlite3": "^5.4.0"
+  },
   "devDependencies": {
     "autod": "^3.0.1",
     "autod-egg": "^1.1.0",
